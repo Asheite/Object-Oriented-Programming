@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=EnvironmentData
+comment1.params=c
+comment1.target=void\ addCustomer(Customer)
+comment2.params=c
+comment2.target=void\ removeCustomer(Customer)
+comment3.params=t\ h\ w
+comment3.target=void\ setMeasurement(float,\ int,\ int)
+comment4.params=
+comment4.target=void\ notifyCustomers()
+comment5.params=
+comment5.target=EnvironmentData()
+comment5.text=\r\n\ \uFFFD?\ EnvironmentData\ ??\uFFFD\u5BF9\u8C61\uFFFD?\uFFFD\uFFFD?\uFFFD\uFFFD?\uFFFD\u51FD?\uFFFD\uFFFD\r\n
+numComments=6

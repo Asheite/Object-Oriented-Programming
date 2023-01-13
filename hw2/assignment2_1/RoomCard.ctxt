@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=RoomCard
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ RoomCard\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=id\ in\ out
+comment1.target=RoomCard(int,\ java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ RoomCard\r\n
+comment2.params=rc
+comment2.target=RoomCard(RoomCard)
+comment3.params=
+comment3.target=void\ extendCheckDate()
+comment4.params=
+comment4.target=boolean[]\ getFloors()
+comment5.params=
+comment5.target=java.lang.String\ getCheckInDate()
+comment6.params=
+comment6.target=int\ getId()
+comment7.params=
+comment7.target=java.lang.String\ getCheckOutDate()
+numComments=8

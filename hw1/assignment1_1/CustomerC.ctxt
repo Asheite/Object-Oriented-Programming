@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=CustomerC
+comment1.params=
+comment1.target=void\ display()
+comment2.params=t\ h\ w
+comment2.target=void\ setData(float,\ int,\ int)
+numComments=3

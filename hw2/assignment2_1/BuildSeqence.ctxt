@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=BuildSeqence
+comment0.text=\r\n\ Write\ a\ description\ of\ interface\ BuildSeqence\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=in
+comment1.target=RoomCardBuilder\ setCheckIn(java.lang.String)
+comment2.params=out
+comment2.target=RoomCardBuilder\ setCheckOut(java.lang.String)
+comment3.params=id
+comment3.target=RoomCardBuilder\ setRoomId(int)
+comment4.params=
+comment4.target=RoomCard\ build()
+numComments=5

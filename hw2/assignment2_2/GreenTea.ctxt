@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=GreenTea
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ GreenTea\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=GreenTea()
+comment1.text=\u53D6\u5F97\u6210\u5206\u8AAA\u660E
+comment2.params=b
+comment2.target=GreenTea(Ingredient)
+comment3.params=b
+comment3.target=GreenTea(BlackTea)
+comment4.params=b
+comment4.target=GreenTea(Milk)
+comment5.params=b
+comment5.target=GreenTea(Pearl)
+comment6.params=b
+comment6.target=GreenTea(GreenTea)
+comment7.params=
+comment7.target=java.lang.String\ getIngredient()
+comment8.params=
+comment8.target=int\ getCost()
+numComments=9
